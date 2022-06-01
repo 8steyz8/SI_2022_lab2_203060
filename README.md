@@ -1,6 +1,7 @@
 # SI_2022_lab2_203060
 
 2.CFG
+
 ![Screenshot 2022-06-01 161207](https://user-images.githubusercontent.com/100214075/171426056-1e61b9ea-105f-4418-bb83-d01709fb8aa7.png)
 3.Cyclomatic complexity is the number of regions
 Number of regions= number of edges - number of nodes + 2 #EDGES = 27 #NODES = 20 #REGIONS = 27 - 20 + 2 = 9 Cyclomatic Complexity = 9
